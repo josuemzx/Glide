@@ -5,3 +5,5 @@ FROM chatwoot/chatwoot:latest
 # COPY branding/   /app/branding
 # COPY overrides/  /app/overrides
 # COPY plugins/    /app/plugins
+
+# COPY plugins/    /app/plugins
