@@ -1,25 +1,21 @@
-<svg
-  width="16"
-  height="16"
-  viewBox="0 0 16 16"
-  fill="none"
-  xmlns="http://www.w3.org/2000/svg"
->
-  <g clip-path="url(#woot-logo-clip-2342424e23u32098)">
-    <path
-      d="M8 16C12.4183 16 16 12.4183 16 8C16 3.58172 12.4183 0 8 0C3.58172 0 0 3.58172 0 8C0 12.4183 3.58172 16 8 16Z"
-      fill="#2781F6"
-    />
-    <path
-      d="M11.4172 11.4172H7.70831C5.66383 11.4172 4 9.75328 4 7.70828C4 5.66394 5.66383 4 7.70835 4C9.75339 4 11.4172 5.66394 11.4172 7.70828V11.4172Z"
-      fill="white"
-      stroke="white"
-      stroke-width="0.1875"
-    />
-  </g>
-  <defs>
-    <clipPath id="woot-logo-clip-2342424e23u32098">
-      <rect width="16" height="16" fill="white" />
-    </clipPath>
-  </defs>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="75.000000pt" height="75.000000pt" viewBox="0 0 75.000000 75.000000"
+ preserveAspectRatio="xMidYMid meet">
+<metadata>
+Created by potrace 1.16, written by Peter Selinger 2001-2019
+</metadata>
+<g transform="translate(0.000000,75.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path d="M250 724 c-92 -33 -158 -93 -208 -188 -25 -46 -27 -61 -27 -161 0
+-106 1 -112 34 -173 39 -71 98 -128 169 -164 41 -20 62 -23 157 -23 95 0 116
+3 157 23 71 36 130 93 169 164 33 61 34 67 34 173 0 106 -1 112 -34 173 -39
+71 -99 129 -169 163 -63 30 -215 37 -282 13z m238 -134 c43 -19 102 -75 102
+-96 0 -6 -13 -17 -30 -24 -28 -12 -32 -10 -68 22 -108 97 -262 25 -262 -122 0
+-50 11 -79 45 -113 60 -60 152 -58 214 4 50 49 42 59 -44 59 l-75 0 0 35 0 35
+120 0 120 0 0 -40 c0 -22 -10 -60 -21 -85 -39 -82 -112 -125 -213 -125 -130 0
+-226 100 -226 234 1 140 96 236 235 236 38 0 76 -8 103 -20z"/>
+</g>
 </svg>
